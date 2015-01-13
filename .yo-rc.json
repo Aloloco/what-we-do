@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "what we do at alolo.co",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "radiodario",
+    "githubRepository": "aloloco-elevator-pitch"
+  }
+}
