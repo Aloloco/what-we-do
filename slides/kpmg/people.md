@@ -1,0 +1,1 @@
+![image](images/gdalt/people.png)

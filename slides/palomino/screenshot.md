@@ -1,0 +1,1 @@
+![image](images/palomino/palomino_shot.png)
